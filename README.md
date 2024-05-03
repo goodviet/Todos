@@ -44,35 +44,17 @@ To install the dependencies, follow these steps:
 ### Usage
 To start the development servers for both frontend and backend, run the following commands:
 
-# Start frontend server
+Start frontend server
 ```sh
     cd client
     npm start   # or yarn start
 ```
 
-# Start backend server
+ Start backend server
 ```sh
     cd ../backend
     npm run start:dev
 ```
-
-### Folder structre:
-
-Todos/
-│
-├── client/        # Frontend React.js application
-│   ├── public/
-│   └── src/
-│       ├── components/
-│       ├── pages/
-│       └── ...
-│
-└── server/         # Backend Nest.js application
-    ├── src/
-    │   ├── modules/
-    │   ├── controllers/
-    │   └── ...
-    └── ...
 
 ### Reference
 

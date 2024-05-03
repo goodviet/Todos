@@ -52,7 +52,7 @@ Start frontend server
 
  Start backend server
 ```sh
-    cd ../backend
+    cd ../server
     npm run start:dev
 ```
 
